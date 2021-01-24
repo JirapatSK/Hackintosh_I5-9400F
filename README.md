@@ -1,6 +1,6 @@
 ![Screenshot](Bigsur.png)
 
-# Opencore 0.6.3
+# Opencore 0.6.5
 
 Please generate SMBIOS !!!
 
